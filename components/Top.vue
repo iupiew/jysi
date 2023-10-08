@@ -9,22 +9,26 @@ const isDark = computed({
   }
 })
 const isOpen = ref(false)
+const items = [{
+  label: 'Main',
+  content: 'Coming soon...'
+}, {
+  label: 'Play',
+  disabled: true,
+  content: 'Try later'
+}, {
+  label: 'Connect',
+  content: 'Coming soon...'
+}]
 </script>
 
 <template>
     <div>
-      <USlideover v-model="isOpen" side="left" >
-        <UButton
-              
-              class="m-2 p-2 duration-500"
-              color="gray"
-              variant="ghost"
-              aria-label="Theme"
-              @click="isOpen = false"
-              />
-              
-            
-      </USlideover>
+      <UModal v-model="isOpen" class="p-10">
+        <div class="pt-2 md:p-8 text-center space-y-16 font-orbitron bg-violet-500">
+          <UTabs :items="items" class="p-10"/>
+        </div>
+      </UModal>
 
         <ClientOnly>
           <div id="leftside" class="flex flex-col float-left">
@@ -36,14 +40,14 @@ const isOpen = ref(false)
               @click="isOpen = true"
             >
             <Lemo
-            class="w-8 h-8"
+            class="w-6 h-6"
             :fill="isDark ? 'currentColor' : 'currentColor'"
             />
           </UButton>
           </div>
           <div id="rightside" class="flex flex-col float-right">
             <UButton
-              :icon="isDark ? 'i-heroicons-moon-20-solid' : 'i-heroicons-sun-20-solid'"
+              :icon="isDark ? 'i-heroicons-moon-solid' : 'i-heroicons-sun-solid'"
               class="m-2 p-2"
               color="gray"
               variant="ghost"
@@ -72,14 +76,16 @@ const isOpen = ref(false)
           
           <svg height="100" width="100" class=" mx-auto m-2 ">
             <circle cx="50" cy="50" r="40" stroke="currentColor" stroke-width="3" :fill="isDark ? 'black' : 'white' "/>
+              
           </svg>
-          <!-- <Face1
+          
+          <!--
+          <Face1
             :fill="isDark ? 'white' : 'black'"
             stroke="#eaeaea"
             class="w-64 h-64 mx-auto "
-            /> -->  
-          
-           
+            />  
+          -->
         </ClientOnly>
         
     </div>

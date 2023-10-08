@@ -1,6 +1,6 @@
 <template>
     <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 2664.4233 434" enable-background="new 0 0 2664.4233 434" xml:space="preserve">
+	 viewBox="0 0 2664.4233 434" scale="2" enable-background="new 0 0 2664.4233 434" xml:space="preserve">
 <g>
 	<polygon fill="none" stroke="currentColor" stroke-width="2" stroke-miterlimit="10" points="55.9978,424.8101 2608.4255,424.8101 
 		1540.0217,9.1899 1124.4015,9.1899 	"/>
@@ -65,49 +65,65 @@
 	
 		<line fill="none" stroke="currentColor" stroke-width="2" stroke-miterlimit="10" x1="237.5448" y1="354.1864" x2="2426.8784" y2="354.1864"/>
 	
+		<line fill="none" stroke="currentColor" stroke-width="2" stroke-miterlimit="10" x1="2526.0891" y1="424.8101" x2="1526.6146" y2="9.1899"/>
 	
+		<line fill="none" stroke="currentColor" stroke-width="2" stroke-miterlimit="10" x1="2443.7527" y1="424.8101" x2="1513.2075" y2="9.1899"/>
 	
-		<line fill="none" stroke="currentColor" stroke-width="2" stroke-miterlimit="10" x1="2400.4163" y1="424.8101" x2="1510.8004" y2="9.1899"/>
+		<line fill="none" stroke="currentColor" stroke-width="2" stroke-miterlimit="10" x1="2361.4163" y1="424.8101" x2="1499.8004" y2="9.1899"/>
 	
+		<line fill="none" stroke="currentColor" stroke-width="2" stroke-miterlimit="10" x1="2279.0801" y1="424.8101" x2="1486.3933" y2="9.1899"/>
 	
-		<line fill="none" stroke="currentColor" stroke-width="2" stroke-miterlimit="10" x1="2216.7437" y1="424.8101" x2="1482.9862" y2="9.1899"/>
+		<line fill="none" stroke="currentColor" stroke-width="2" stroke-miterlimit="10" x1="2196.7437" y1="424.8101" x2="1472.9862" y2="9.1899"/>
 	
+		<line fill="none" stroke="currentColor" stroke-width="2" stroke-miterlimit="10" x1="2114.4072" y1="424.8101" x2="1459.5791" y2="9.1899"/>
 	
 		<line fill="none" stroke="currentColor" stroke-width="2" stroke-miterlimit="10" x1="2032.0708" y1="424.8101" x2="1446.172" y2="9.1899"/>
 	
+		<line fill="none" stroke="currentColor" stroke-width="2" stroke-miterlimit="10" x1="1949.7345" y1="424.8101" x2="1432.7649" y2="9.1899"/>
 	
 		<line fill="none" stroke="currentColor" stroke-width="2" stroke-miterlimit="10" x1="1867.3981" y1="424.8101" x2="1419.3578" y2="9.1899"/>
 	
+		<line fill="none" stroke="currentColor" stroke-width="2" stroke-miterlimit="10" x1="1785.0618" y1="424.8101" x2="1405.9507" y2="9.1899"/>
 	
 		<line fill="none" stroke="currentColor" stroke-width="2" stroke-miterlimit="10" x1="1702.7253" y1="424.8101" x2="1392.5436" y2="9.1899"/>
 	
+		<line fill="none" stroke="currentColor" stroke-width="2" stroke-miterlimit="10" x1="1620.3889" y1="424.8101" x2="1379.1365" y2="9.1899"/>
 	
 		<line fill="none" stroke="currentColor" stroke-width="2" stroke-miterlimit="10" x1="1538.0526" y1="424.8101" x2="1365.7294" y2="9.1899"/>
 	
+		<line fill="none" stroke="currentColor" stroke-width="2" stroke-miterlimit="10" x1="1455.7162" y1="424.8101" x2="1352.3223" y2="9.1899"/>
 	
 		<line fill="none" stroke="currentColor" stroke-width="2" stroke-miterlimit="10" x1="1373.3799" y1="424.8101" x2="1338.9152" y2="9.1899"/>
 	
+		<line fill="none" stroke="currentColor" stroke-width="2" stroke-miterlimit="10" x1="1291.0435" y1="424.8101" x2="1325.5081" y2="9.1899"/>
 	
 		<line fill="none" stroke="currentColor" stroke-width="2" stroke-miterlimit="10" x1="1208.707" y1="424.8101" x2="1312.101" y2="9.1899"/>
 	
+		<line fill="none" stroke="currentColor" stroke-width="2" stroke-miterlimit="10" x1="1126.3707" y1="424.8101" x2="1298.6938" y2="9.1899"/>
 	
 		<line fill="none" stroke="currentColor" stroke-width="2" stroke-miterlimit="10" x1="1044.0343" y1="424.8101" x2="1285.2867" y2="9.1899"/>
 	
+		<line fill="none" stroke="currentColor" stroke-width="2" stroke-miterlimit="10" x1="961.6979" y1="424.8101" x2="1271.8796" y2="9.1899"/>
 	
 		<line fill="none" stroke="currentColor" stroke-width="2" stroke-miterlimit="10" x1="879.3616" y1="424.8101" x2="1258.4725" y2="9.1899"/>
 	
+		<line fill="none" stroke="currentColor" stroke-width="2" stroke-miterlimit="10" x1="797.0252" y1="424.8101" x2="1245.0654" y2="9.1899"/>
 	
 		<line fill="none" stroke="currentColor" stroke-width="2" stroke-miterlimit="10" x1="714.6888" y1="424.8101" x2="1231.6583" y2="9.1899"/>
 	
+		<line fill="none" stroke="currentColor" stroke-width="2" stroke-miterlimit="10" x1="632.3525" y1="424.8101" x2="1218.2512" y2="9.1899"/>
 	
 		<line fill="none" stroke="currentColor" stroke-width="2" stroke-miterlimit="10" x1="550.0161" y1="424.8101" x2="1204.8441" y2="9.1899"/>
 	
+		<line fill="none" stroke="currentColor" stroke-width="2" stroke-miterlimit="10" x1="467.6797" y1="424.8101" x2="1191.437" y2="9.1899"/>
 	
 		<line fill="none" stroke="currentColor" stroke-width="2" stroke-miterlimit="10" x1="385.3433" y1="424.8101" x2="1178.0299" y2="9.1899"/>
 	
+		<line fill="none" stroke="currentColor" stroke-width="2" stroke-miterlimit="10" x1="303.0069" y1="424.8101" x2="1164.6228" y2="9.1899"/>
 	
 		<line fill="none" stroke="currentColor" stroke-width="2" stroke-miterlimit="10" x1="220.6706" y1="424.8101" x2="1151.2157" y2="9.1899"/>
 	
+		<line fill="none" stroke="currentColor" stroke-width="2" stroke-miterlimit="10" x1="138.3342" y1="424.8101" x2="1137.8086" y2="9.1899"/>
 </g>
 </svg>
 
